@@ -7,7 +7,7 @@ by Dave Ciolino-Volano, Nicole, Seth
 #### DESCRIPTION:
 * Students will complete a unit on Game Development from the ideation stage until the final product
 #### POSSIBLE COURSES:
-* Any CS course: can fit well into intro to CS or APCSP (block based for accesibility to non-coders)
+* Any CS course: can fit well into intro to CS or APCSP (block based for accessibility to non-coders)
 #### PLACEMENT IN COURSE SEQUENCE:
 * Ideally after some basic coding so students know basic conditionals and looping.  This way they can get into the game coding and design verse needing to learn a lot of the coding.
 * Learn History of Gaming and CS -> Learn Game Design Principals and Concepts -> Design and Program Game -> Connect Game to Social Issue -> Demo Game and Implement Feedback
