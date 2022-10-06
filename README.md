@@ -16,8 +16,9 @@ by Dave Ciolino-Volano, Nicole, Seth
 
 ### Motivation for Unit
 * This fits very well into almost any programing class
-* The students can go from history of CS to modern gaming and how gaming has been a huge driving factor in CS inovation
-* Students will be able to assess accesibility by starting a game for the Games for Change student challenge
+* We decided that the motivation for this unit is to make coding as relatable and engaging as possible. 
+* The students can go from history of CS to modern gaming and how gaming has been a huge driving factor in CS innovation
+* Students will be able to assess accessibility by starting a game for the Games for Change student challenge
 * Gets at basic design thinking that can motivate students to engage deeply in programing
 * 
 
