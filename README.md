@@ -4,14 +4,22 @@ by Dave Ciolino-Volano, Nicole, Seth
 -----
 
 ### General Overview
-*DESCRIPTION:
-*POSSIBLE COURSES
-*PLACEMENT IN COURSE SEQUENCE: 
+#### DESCRIPTION:
+* Students will complete a unit on Game Development from the ideation stage until the final product
+#### POSSIBLE COURSES:
+* Any CS course: can fit well into intro to CS or APCSP (block based for accesibility to non-coders)
+#### PLACEMENT IN COURSE SEQUENCE:
+* Ideally after some basic coding so students know basic conditionals and looping.  This way they can get into the game coding and design verse needing to learn a lot of the coding.
+* Learn History of Gaming and CS -> Learn Game Design Principals and Concepts -> Design and Program Game -> Connect Game to Social Issue -> Demo Game and Implement Feedback
 
 ---
 
 ### Motivation for Unit
-(why have you decided to make this?)
+* This fits very well into almost any programing class
+* The students can go from history of CS to modern gaming and how gaming has been a huge driving factor in CS inovation
+* Students will be able to assess accesibility by starting a game for the Games for Change student challenge
+* Gets at basic design thinking that can motivate students to engage deeply in programing
+* 
 
 ---
 
