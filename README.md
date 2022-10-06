@@ -4,7 +4,9 @@ by Dave Ciolino-Volano, Nicole, Seth
 -----
 
 ### General Overview
-(include here description of unit, what class(es) it fits into, when...)
+*DESCRIPTION:
+*POSSIBLE COURSES
+*PLACEMENT IN COURSE SEQUENCE: 
 
 ---
 
