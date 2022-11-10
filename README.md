@@ -26,21 +26,44 @@ by Dave Ciolino-Volano, Nicole, Seth
 
 ### Standards Referenced
 List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
+* 7-8.IC.1 / 9-12.IC.1 Impact of games 
+* 7-8.IC.6. / 9-12.IC.6 Accessibility– In Games
+* 7-8.CT.5 / 9-12.CT.5 Making Controls
+* 7-8.CT.6 / 9-12.CT.6 Overall development and debugging of game
 
 ---
 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+* Block based environment (scratch and SNAP)
+* Grow a game online cards
+* Peardeck for presentations
+* Google Classroom or other LMS
+* Padlet
 
 ---
 
 ### Resources
 (include any links/books/readings to be used during this unit)
+* GamesForChange Student Challenge Game design
+* MouseCreate Design Thinking
 
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total lenght: 2-2.5 Weeks
+* Impact of games in history
+* Play vs game / game components
+* Hack a game tic-tac-toe / rock paper scissors
+* Found objects game / Grow-a-game
+* Pair programming to establish debugging
+* Impact Games 
+* Game research (past student winners, retro games)
+* Iterative Design Process 
+* Design (planning) 
+* Design (coding) 
+* Design (coding/debugging)
+* Game Fair
 
 (list each lesson with main topic(s))
 
@@ -48,5 +71,9 @@ Total lenght: X Weeks
 
 ### Assesments
 (list summative and/or formative assessments used)
+* Exit slip assessments 
+* Peer evaluations (glows and grows / constructive feedback)
+* End of unit major project per rubric
+* peer Rubric Evaluation
 
 ---
