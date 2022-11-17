@@ -1,5 +1,5 @@
 # UNIT PLAN NAME
-by Dave Ciolino-Volano, Nicole, Seth
+by Dave Ciolino-Volano, Nicole Cojuangco, Seth Adams
 
 -----
 
