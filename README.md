@@ -1,4 +1,4 @@
-# UNIT PLAN NAME
+# Game Design with a Purpose
 by Dave Ciolino-Volano, Nicole Cojuangco, Seth Adams
 
 -----
